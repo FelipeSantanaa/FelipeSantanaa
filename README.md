@@ -17,7 +17,6 @@ Welcome to my profile! How is it going? 😁
 
 - [Linkgroup](https://github.com/FelipeSantanaa/LinkGroup) <br>
 - [Netflix Clone](https://github.com/FelipeSantanaa/Netflix-Clone) <br>
-- [React website](https://github.com/FelipeSantanaa/Website-in-react)
 -------
 
 <div align="center">
