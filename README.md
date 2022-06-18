@@ -1,4 +1,4 @@
-# Hello dear <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello dear <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="40px" height="40px">
 Welcome to my profile! How is it going? 😁
 
 #### I'm a technology student. I'm passionate about solving problems and learning from the solutions.
@@ -35,6 +35,7 @@ Welcome to my profile! How is it going? 😁
 ![EJS](https://img.shields.io/badge/ejs-black?style=for-the-badge&logo=ejs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -46,6 +47,7 @@ Welcome to my profile! How is it going? 😁
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/sqlserver-%234ea94b.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   
   
 #### “Nothing in this world beats good old persistence.” 📚
