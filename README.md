@@ -54,7 +54,6 @@ Welcome to my profile! How is it going? 😁
 
 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-santana-alves/)](https://www.linkedin.com/in/felipe-santana-alves/)[
-![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipesantanaa2/)](https://www.instagram.com/felipesantanaa2/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-santana-alves/)](https://www.linkedin.com/in/felipe-santana-alves/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe008_@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe008_@hotmail.com)](mailto:felipe008_@hotmail.com)
  
