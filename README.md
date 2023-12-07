@@ -13,11 +13,6 @@ Welcome to my profile! How is it going? 😁
 - 🎮 | I really have a passion for games
 
 -------
-#### Best projects developed by me:
-
-- [Linkgroup](https://github.com/FelipeSantanaa/LinkGroup) <br>
-- [Netflix Clone](https://github.com/FelipeSantanaa/Netflix-Clone) <br>
--------
 
 <div align="center">
   <a href="https://github.com/FelipeSantanaa">
