@@ -7,7 +7,7 @@ Welcome to my profile! How is it going? 😁
 ------------
 -  📍 | From Brazil living in São Paulo
 - 🎓 | Graduated in systems analysis and development at [FMU](https://portal.fmu.br/)
-- 👨🏻‍💻 | I am currently studying at [Desenvolvedor.io](https://desenvolvedor.io/)
+- 👨🏻‍💻 | I am currently studying at Youtube Channels and Rocketseat
 -   🧠 | Studying to be a future full stack developer web
 - 💙 | Lover of new technologies
 - 🎮 | I really have a passion for games
